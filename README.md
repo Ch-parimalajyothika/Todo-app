@@ -1,47 +1,53 @@
 # 📋 To-Do List App
 
-A simple, clean, and responsive task tracker built with HTML, CSS, and JavaScript.  
-Users can add, complete, and delete tasks — with support for light/dark themes and persistent storage via localStorage.
+A simple and interactive task tracker where users can add, mark, and delete tasks in real time.  
+This project was developed to understand DOM manipulation and build dynamic web pages using JavaScript.
 
 ---
 
-## ✨ Features
+## 📌 What It Does
 
-- ➕ Add tasks
-- ✅ Mark as completed
-- 🗑️ Delete tasks
-- 🌗 Light & Dark mode toggle
-- 💾 Tasks saved in browser using localStorage
-
----
-
-## 🛠️ How to Run
-
-1. **Download** or **clone** this repository  
-2. Open `index.html` in your browser
+- ➕ Add new tasks  
+- ✅ Mark tasks as completed  
+- 🗑️ Delete tasks  
+- 🌗 Toggle between Light & Dark mode  
+- 💾 Save tasks locally in the browser using localStorage
 
 ---
 
-## 🔧 Tech Stack
+## ⚙️ How It Works
 
-- HTML5  
-- CSS3 with CSS Variables  
-- JavaScript (Vanilla)  
-- `localStorage` API
+- **HTML/CSS** were used to design the interface
+- **JavaScript** handles:
+  - User actions (event handling)
+  - Adding/removing tasks dynamically
+  - Saving data using `localStorage`
+
+> A backend can be connected in future to store tasks online.
 
 ---
 
-## 🎯 Project Goal
+## 💡 Skills Gained
 
-To practice real-time JavaScript interactivity, DOM manipulation, and responsive UI design.
+- JavaScript Basics  
+- DOM Manipulation  
+- Event Handling  
+- Working with `localStorage`  
+- UI Design with Light/Dark Themes
+
+---
+
+## 🎯 Goal
+
+To practice **real-time interactivity using JavaScript** by building a complete, functional frontend application.
 
 ---
 
 ## 👩‍💻 Developed By
 
 **Parimala Jyothika**  
-Frontend Developer | Tech Learner | Internship-Ready 💼
+Frontend Developer | Internship Learner
 
----
+
 
 
