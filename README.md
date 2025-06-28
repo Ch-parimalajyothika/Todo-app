@@ -1,29 +1,35 @@
 # 📋 To-Do List App
 
-A simple and interactive task tracker where users can add, mark, and delete tasks in real time.  
-This project was developed to understand DOM manipulation and build dynamic web pages using JavaScript.
+A simple and responsive task manager built using HTML, CSS, and JavaScript.  
+Users can add, complete, and delete tasks with smooth light/dark mode switching. Tasks are saved locally in the browser using `localStorage`.
+
+---
+
+## ✨ Features
+
+- ➕ Add tasks
+- ✅ Mark tasks as completed
+- 🗑️ Delete tasks
+- 🌗 Toggle between Light & Dark mode
+- 💾 Saves tasks locally using `localStorage`
 
 ---
 
 ## 📌 What It Does
 
-- ➕ Add new tasks  
-- ✅ Mark tasks as completed  
-- 🗑️ Delete tasks  
-- 🌗 Toggle between Light & Dark mode  
-- 💾 Save tasks locally in the browser using localStorage
+A basic task tracker where users can manage their daily goals.  
+Built to explore JavaScript-based interactivity and DOM manipulation.
 
 ---
 
 ## ⚙️ How It Works
 
-- **HTML/CSS** were used to design the interface
+- **HTML/CSS** build the UI layout and style
 - **JavaScript** handles:
-  - User actions (event handling)
-  - Adding/removing tasks dynamically
-  - Saving data using `localStorage`
-
-> A backend can be connected in future to store tasks online.
+  - Task creation and deletion
+  - Theme toggle
+  - Real-time updates
+  - Data storage using localStorage (no backend)
 
 ---
 
@@ -32,14 +38,39 @@ This project was developed to understand DOM manipulation and build dynamic web 
 - JavaScript Basics  
 - DOM Manipulation  
 - Event Handling  
-- Working with `localStorage`  
-- UI Design with Light/Dark Themes
+- Theme switching  
+- Working with localStorage  
+- UI/UX Design
 
 ---
 
 ## 🎯 Goal
 
-To practice **real-time interactivity using JavaScript** by building a complete, functional frontend application.
+To practice **real-time interactivity using JavaScript** and understand the structure of frontend apps.
+
+---
+
+## 🖼️ Project Preview
+
+![To-Do List Screenshot](screenshot.png)
+
+> Make sure the file `screenshot.png` is placed in your repo folder.
+
+---
+
+## 🎥 Live Demo 
+
+[Click to watch the demo](https://drive.google.com/file/d/1VwFPWBZmjsZbFzWf0xIrVRv9RnOMywAP/view?usp=sharing)
+
+> Upload your screen recording to YouTube or Google Drive and paste the link here (optional but impressive).
+
+---
+
+## 🛠️ How to Run Locally
+
+1. Download or clone the repository  
+2. Open `index.html` in any web browser  
+3. Start adding tasks!
 
 ---
 
@@ -47,6 +78,10 @@ To practice **real-time interactivity using JavaScript** by building a complete,
 
 **Parimala Jyothika**  
 Web Developer | Internship Learner
+
+---
+
+
 
 
 
