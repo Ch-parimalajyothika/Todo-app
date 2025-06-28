@@ -52,7 +52,7 @@ To practice **real-time interactivity using JavaScript** and understand the stru
 
 ## 🖼️ Project Preview
 
-![To-Do List Screenshot](screenshot.png)
+![To-Do List Screenshot](screenshot.png.png)
 
 
 
