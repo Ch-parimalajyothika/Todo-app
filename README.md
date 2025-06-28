@@ -10,7 +10,7 @@ A modern and stylish To-Do List built using HTML, CSS, and JavaScript.
 - 🎨 Realistic Moon Theme
 
 ## 🚀 Live Demo
-👉 [Click here to view](https://Ch-parimalajyothika.github.io/Todo-app/) *(Once GitHub Pages is enabled)*
+👉 [Click here to view](https://.github.io/Todo-app/) *(Once GitHub Pages is enabled)*
 
 ## 🛠️ Tech Used
 - HTML
