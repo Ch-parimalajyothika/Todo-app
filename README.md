@@ -7,10 +7,10 @@ Users can add, complete, and delete tasks with smooth light/dark mode switching.
 
 ## ✨ Features
 
-- ➕ Add tasks
-- ✅ Mark tasks as completed
-- 🗑️ Delete tasks
-- 🌗 Toggle between Light & Dark mode
+- ➕ Add tasks  
+- ✅ Mark tasks as completed  
+- 🗑️ Delete tasks  
+- 🌗 Toggle between Light & Dark mode  
 - 💾 Saves tasks locally using `localStorage`
 
 ---
@@ -24,12 +24,12 @@ Built to explore JavaScript-based interactivity and DOM manipulation.
 
 ## ⚙️ How It Works
 
-- **HTML/CSS** build the UI layout and style
+- **HTML/CSS** build the UI layout and style  
 - **JavaScript** handles:
-  - Task creation and deletion
-  - Theme toggle
-  - Real-time updates
-  - Data storage using localStorage (no backend)
+  - Task creation and deletion  
+  - Theme toggle  
+  - Real-time updates  
+  - Data storage using `localStorage` (no backend)
 
 ---
 
@@ -38,8 +38,8 @@ Built to explore JavaScript-based interactivity and DOM manipulation.
 - JavaScript Basics  
 - DOM Manipulation  
 - Event Handling  
-- Theme switching  
-- Working with localStorage  
+- Theme Switching  
+- Working with `localStorage`  
 - UI/UX Design
 
 ---
@@ -52,11 +52,9 @@ To practice **real-time interactivity using JavaScript** and understand the stru
 
 ## 🖼️ Project Preview
 
-![To-Do List Screenshot](screenshot.png.png)
+![To-Do List Screenshot](screenshot.png.png) 
 
 
-
----
 
 ---
 
@@ -74,6 +72,7 @@ To practice **real-time interactivity using JavaScript** and understand the stru
 Web Developer | Internship Learner
 
 ---
+
 
 
 
