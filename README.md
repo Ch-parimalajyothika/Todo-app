@@ -54,7 +54,7 @@ To practice **real-time interactivity using JavaScript** and understand the stru
 
 ![To-Do List Screenshot](screenshot.png)
 
-> Make sure the file `screenshot.png` is placed in your repo folder.
+
 
 ---
 
@@ -62,7 +62,7 @@ To practice **real-time interactivity using JavaScript** and understand the stru
 
 [Click to watch the demo](https://drive.google.com/file/d/1VwFPWBZmjsZbFzWf0xIrVRv9RnOMywAP/view?usp=sharing)
 
-> Upload your screen recording to YouTube or Google Drive and paste the link here (optional but impressive).
+
 
 ---
 
