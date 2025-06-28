@@ -46,7 +46,8 @@ To practice **real-time interactivity using JavaScript** by building a complete,
 ## 👩‍💻 Developed By
 
 **Parimala Jyothika**  
-Frontend Developer | Internship Learner
+Web Developer | Internship Learner
+
 
 
 
